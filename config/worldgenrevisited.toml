@@ -28,7 +28,7 @@
 	#
 	#Change carver/cave frequencies. Use /listallcarvers to get a list of active carvers. This option does not impact the frequencies of large/organic looking caves. This option only affects canyons and tunnels. Acts like feature frequency multipliers, will 3x or 0.5x the default carver rate. Can be used to customize worldgen type carver frequencies. 
 	#Default=[]
-	carver_multiply_frequencies = []
+	carver_multiply_frequencies = ["minecraft:cave=4", "minecraft:cave_extra_underground=4", "minecraft:nether_cave=4"]
 	#
 	#Override carver/cave frequencies. Use /listallcarvers to get a list of active carvers with their probabilities. Requires the exact probability. For instance, "worldgenrevisited:v12_caves=0.4" for 1.12 style caves (default is 0.15, sets to 0.4). Useful defaults: minecraft:canyon=0.01, minecraft:cave=0.15, (extra underground) minecraft:cave=0.07, minecraft:nether_cave=0.2. Can be used to customize worldgen type carver frequencies. 
 	#Default=[]
