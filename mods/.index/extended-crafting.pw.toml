@@ -1,0 +1,13 @@
+filename = 'ExtendedCrafting-1.19.2-5.1.9.jar'
+name = 'Extended Crafting'
+side = 'both'
+
+[download]
+hash = '588e036769b5ceae42475fdffd4a9db31bad0ca6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4775875
+project-id = 268387

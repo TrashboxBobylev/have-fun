@@ -1,0 +1,15 @@
+mods/*.jar
+/Xaero*
+icon.png
+/logs
+/modernfix
+/crash-reports
+usercache.json
+usernamecache.json
+patchouli_data.json
+realms_persistence.json
+/saves
+options.txt
+/coremods
+/defaultconfigs
+/screenshots

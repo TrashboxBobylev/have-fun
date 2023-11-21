@@ -1,0 +1,13 @@
+filename = 'snad-1.3.1.jar'
+name = '[Forge] Snad'
+side = 'both'
+
+[download]
+hash = 'f93650c4e8edf4049ad2bfc960f0ac9d9e6c90da'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3919912
+project-id = 349596

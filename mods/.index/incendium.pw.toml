@@ -1,0 +1,13 @@
+filename = 'Incendium_1.19.3_v5.1.6.jar'
+name = 'Incendium'
+side = 'both'
+
+[download]
+hash = '3c778f9f5d2ece9bc82ed2040f6e1de2c0220a8e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4452501
+project-id = 591388

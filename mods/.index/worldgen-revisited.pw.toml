@@ -1,0 +1,13 @@
+filename = 'worldgenrevisited-forge-1.19.2-0.4.2.jar'
+name = 'Worldgen Revisited'
+side = 'both'
+
+[download]
+hash = '49c1da8b1bccfd5d240328f45cedb9bd81ddabf7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4840832
+project-id = 906526
